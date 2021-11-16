@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: smoov
     subtitle: Simplifying expenses in your relationship
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: |
+      This app is bomb
     actions:
       - label: App Store
         url: /pricing
